@@ -1,0 +1,9 @@
+.blog-post-content{
+    background-color: white;
+}
+
+.social b{
+    font-family: var(--font1);
+    font-style: italic;
+    padding: 10px;
+}
